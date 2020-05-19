@@ -8,23 +8,23 @@ I own a pizza place and as a way of trying to widen my customer base, so I decid
 [Ryan Munge](https://github.com/ryan-ryu8/Pizza-YumYum.git)
 
 ## Technologies
- . HTML
- . CSS
- . JAVASCRIPT
- . JQUERY
+ * HTML
+ * CSS
+ * JAVASCRIPT
+ * JQUERY
  
  ## BDD
  
-#### Inputs	Description
- 
-Pizza Flavour	eg periperi
-Pizza size	eg mega
-Pizza crust	eg thick crust
-Pizza topping	eg cheese
-Number of pizzas	eg 3
-Delivery mode	eg Deliver
+Inputs |	Description 
+|:---    |            ---:  |
+Pizza Flavour |	eg periperi |
+Pizza size |	eg mega |
+Pizza crust |	eg thick crust |
+Pizza topping |	eg cheese |
+Number of pizzas |	eg 3 |
+Delivery mode |	eg Deliver |
  
 ## License:
- . MIT
- . Ryan Munge 2020
+ * MIT
+ * Ryan Munge 2020
  
