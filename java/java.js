@@ -700,7 +700,7 @@ $(function () {
         $('.delivernot').show(1000);
 
         $('#list').text(" ");
-        $("#list").append("<br>" + "Flavour :  " + newOrder.f + "<br>" + "Size :   "
+        $("#list").append("<br>" + "Flavour :   " + newOrder.f + "<br>" + "Size :   "
             + newOrder.s + "<br>" + "Crust :    "
             + newOrder.c + "<br>" + "Toppings :   "
             + newOrder.t + "<br>" + " Number of pizzas :   "
