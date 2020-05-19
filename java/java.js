@@ -701,7 +701,7 @@ $(function () {
 
         $('#list').text(" ");
         $("#list").append("<br>" + "Flavour :  " + newOrder.f + "<br>" + "Size :   "
-            + newOrder.s + "<br>" + "Crust :   "
+            + newOrder.s + "<br>" + "Crust :    "
             + newOrder.c + "<br>" + "Toppings :   "
             + newOrder.t + "<br>" + " Number of pizzas :  "
             + newOrder.n + "<br>" + "Total Price :  "
